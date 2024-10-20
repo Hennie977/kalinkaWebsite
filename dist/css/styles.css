@@ -10840,6 +10840,11 @@ p {
   color: #f6e1c5;
 }
 
+.site-logo {
+  width: 150px;  /* Set the width */
+  height: auto;  /* Maintain aspect ratio */
+}
+
 .site-heading {
   margin-top: 5rem;
   margin-bottom: 5rem;
