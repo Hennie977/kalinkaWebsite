@@ -10840,11 +10840,6 @@ p {
   color: #f6e1c5;
 }
 
-.site-logo {
-  width: 150px;  /* Set the width */
-  height: auto;  /* Maintain aspect ratio */
-}
-
 .site-heading {
   text-transform: uppercase;
   line-height: 1;
